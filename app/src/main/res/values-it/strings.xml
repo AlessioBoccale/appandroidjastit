@@ -7,5 +7,8 @@
     <string name="hint_email">Inserisci email</string>
     <string name="hint_password">Inserisci password</string>
     <string name="welcome">Benvenuto</string>
+    <string name="totale">Totale</string>
+<string name="euro">euro</string>
+<string name="BUY">BUY</string>
 
 </resources>

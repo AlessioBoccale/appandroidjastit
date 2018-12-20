@@ -33,7 +33,9 @@ public void clicca(View view){
     startActivity(Intent.createChooser(i, "Choose an Email client : "));
 
 }
-    public void onClick(View view){
+    public void onClick(View view)
+    {
+        Food food =
         if (view.getId() == R.id.welcome_tv) {
             clicca(this.welcomeTW);
 

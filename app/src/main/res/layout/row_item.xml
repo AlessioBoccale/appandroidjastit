@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Milk"
+        android:padding="20dp"
+        android:gravity="center"
+        android:id="@+id/primorow"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="2,00"
+        android:padding="20dp"
+
+        android:gravity="center"
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+
+        android:padding="20dp"
+
+        android:text="+"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="0"
+        android:gravity="center"
+        android:padding="20dp"
+
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="-"
+        android:padding="2dp"
+        />
+
+
+
+
+
+
+
+
+
+</LinearLayout>
